@@ -1,0 +1,15 @@
+.whiteboard {
+    display: block;
+}
+
+.clearButton {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 5px 10px;
+    background-color: #fff;
+    border: 1px solid #666;
+    cursor: pointer;
+    color: #666;
+    font-size: 14px;
+}
